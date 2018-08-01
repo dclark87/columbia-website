@@ -1,0 +1,40 @@
+/*
+
+Author: Daniel Clark, 2013
+*/
+
+/* span */
+span {
+    color:white;
+}
+
+/* body */
+body {
+    font-family:Garamond, serif; /* ...if user doesnt have Garamond, use serif */
+    background-color:#7EB0E1;
+}
+
+/* div size */
+div {
+    width:50px;
+    height:50px;
+    margin:auto;
+}
+
+/* border on img's */
+.imgborder {
+    border:2px solid #004393;
+    border-radius:5px;
+    margin:auto;
+}
+*/
+/* heading 1 styling */
+h1 {
+    text-align:center;
+}
+
+/* subtitle styling */
+#subtitle {
+    text-align:center;
+    color:white;
+}
